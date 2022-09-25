@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Phenomenology of physics beyond the Standard Model from colliders to the early universe
+  - Models of particle dark matter
+  - Effective field theory
 
 # Education to show in About widget
 education:
