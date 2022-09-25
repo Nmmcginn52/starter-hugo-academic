@@ -45,7 +45,7 @@ content:
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: <!-- DM Me -->
+      name:  DM Me
       link: 'https://twitter.com/NMcGinnis11'
    <!-- - icon: video
       icon_pack: fas
