@@ -28,12 +28,9 @@ content:
   email: nmcginnis@triumf.ca
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    city: Vancouver
+    region: BC
+    country: Canada
   coordinates:
     latitude: '37.4275'
     longitude: '-122.1697'
@@ -43,10 +40,6 @@ content:
       icon_pack: fab
       name:  DM Me
       link: 'https://twitter.com/NMcGinnis11'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me 
-      link: 'https://zoom.com' 
 
 design:
   columns: '2'
