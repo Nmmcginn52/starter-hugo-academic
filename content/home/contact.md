@@ -47,10 +47,10 @@ content:
       icon_pack: fab
       name: <!-- DM Me -->
       link: 'https://twitter.com/NMcGinnis11'
-    - icon: video
+   <!-- - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://zoom.com' -->
 
 design:
   columns: '2'
