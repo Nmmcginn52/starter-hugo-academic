@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoctoral Researcher
     company: TRIUMF
-    company_url: 'https://www.triumf.ca'
+    company_url: ''
     company_logo: triumf
     location: 'British Columbia, Canada'
     date_start: 'January 4, 2021'
@@ -33,7 +33,7 @@ experience:
 
   - title: Research Associate
     company: Argonne National Laboratory
-    company_url: 'https://www.anl.gov'
+    company_url: ''
     company_logo: org-x
     location: 'Illinois, USA'
     date_start: 'June 15, 2020'
