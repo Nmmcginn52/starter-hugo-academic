@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Researcher
     company: TRIUMF
     company_url: 'https://www.triumf.ca'
-    company_logo: org-gc
+    company_logo: triumf
     location: British Columbia, Canada
     date_start: 'January 4, 2021'
     date_end: ''
